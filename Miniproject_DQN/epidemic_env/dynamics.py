@@ -112,8 +112,8 @@ class ModelDynamics():
         self.total_pop = np.sum([self.map.nodes[n]['pop']
                                 for n in self.map.nodes()])
         for e in self.roads:
-            tau = 10*(self.map.nodes[e[0]]['pop'] *
-                      self.map.nodes[e[1]]['pop'])/self.total_pop**2
+            tau = 10*(self.map.nodes[e[0]]['pop'] / self.total_pop *
+            self.map.nodes[e[1]]['pop'] / self.total_pop)
             self.map.edges[e]['tau'] = tau
 
         self.reset()
