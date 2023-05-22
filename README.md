@@ -11,5 +11,6 @@ Q3(b) -- Finish
 ![Alt text](q3b.png)
 Q3(c) -- Finish  
 ![Alt text](Q3hist.png) 
-
+Q4.1 -- Finish  
+Q4.2 -- Finish  
 
