@@ -1,16 +1,23 @@
-# DQN
-![Alt text](dqn.png)
-邹神无敌！！！  
-Q1(a) -- Finish  
-Q1(b) -- Finish   
-Q2(a) -- Finish   
-Q2(b) -- Finish  
-Q3(a) -- Finish  
-![Alt text](q3a.png)
-Q3(b) -- Finish  
-![Alt text](q3b.png)
-Q3(c) -- Finish  
-![Alt text](Q3hist.png) 
-Q4.1 -- Finish  
-Q4.2 -- Finish  
+# DQN for epidemic mitigation
+This is the project repo for Deep Q-learning for epidemic control, refer to EPFL CS456 - Artificial Neural Network and Reinforcement learning.   
+### Group Member:  
+Du Junye (junyedu2-c@my.cityu.edu.hk)  
+Zou Mengjie (mengjie.zou@epfl.ch)
 
+
+![Alt text](dqn.png)
+
+## DQN & Factorized Q-learning approach heatmap
+![Alt text](heatmap1.png)
+
+![Alt text](heatmap2.png)
+
+## Agent Simulation
+![Alt text](output.png)
+
+## Result comparison
+![Alt text](trace.png)
+![Alt text](comp.png)
+
+
+Welcome to contact us if you have any questions!
